@@ -1,5 +1,3 @@
-package TP2;
-
 public class Noeud {
 
 	protected Element contenu;
