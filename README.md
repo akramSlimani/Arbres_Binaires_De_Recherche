@@ -1,5 +1,8 @@
+<div align="center">
+
 #Dictionnaire basé sur un Arbre Binaire de Recherche (ABR)
 
+  </div>
 Ce projet contient une implémentation en Java d'un dictionnaire basé sur un Arbre Binaire de Recherche (ABR). 
 
 ## Classes
