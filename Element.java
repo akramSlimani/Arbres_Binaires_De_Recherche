@@ -1,5 +1,3 @@
-package TP2;
-
 public class Element {
 
     private int cle;
