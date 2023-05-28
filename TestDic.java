@@ -1,5 +1,3 @@
-package TP2;
-
 import java.util.Random;
 
 
